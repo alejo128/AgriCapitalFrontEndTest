@@ -17,3 +17,5 @@ o
 
 npm run serve
 ```
+# Desarrollado por
+# Jose Alejandro Diaz Urrego
